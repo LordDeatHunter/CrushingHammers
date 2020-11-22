@@ -1,0 +1,31 @@
+{
+  "source": "minecraft:enchanting_table",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:diamond",
+          "fortune": false,
+          "min": 2,
+          "max": 2
+		},
+ 	    {
+          "item": "minecraft:obsidian",
+          "fortune": false,
+          "min": 4,
+          "max": 4
+		},
+ 	    {
+          "item": "minecraft:book",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+		}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:spawner",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:iron_bars",
+          "fortune": false,
+          "min": 3,
+          "max": 9
+        }
+      ]
+    }
+  ]
+}

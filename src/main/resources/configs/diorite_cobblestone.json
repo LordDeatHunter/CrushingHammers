@@ -1,0 +1,19 @@
+{
+  "source": "crushing_hammers:diorite_cobblestone",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "crushing_hammers:diorite_gravel",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+		}
+      ]
+    }
+  ]
+}

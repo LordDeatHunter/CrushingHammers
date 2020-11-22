@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:chipped_anvil",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:iron_ingot",
+          "fortune": false,
+          "min": 24,
+          "max": 30
+		}
+      ]
+    }
+  ]
+}

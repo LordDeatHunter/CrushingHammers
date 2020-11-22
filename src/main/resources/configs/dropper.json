@@ -1,0 +1,25 @@
+{
+  "source": "minecraft:dropper",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+	  "chance": 100,
+	  "repeat": false,
+	  "drops": [
+        {
+          "item": "minecraft:cobblestone",
+          "fortune": false,
+          "min": 7,
+          "max": 7
+        },
+        {
+          "item": "minecraft:redstone",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+        }
+	  ]
+    }
+  ]
+}

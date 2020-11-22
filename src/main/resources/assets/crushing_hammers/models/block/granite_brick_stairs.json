@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "crushing_hammers:block/granite_bricks",
+    "top": "crushing_hammers:block/granite_bricks",
+    "side": "crushing_hammers:block/granite_bricks"
+  }
+}

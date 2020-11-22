@@ -1,0 +1,19 @@
+{
+  "source": "crushing_hammers:brown_concrete_cobblestone",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:brown_concrete_powder",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+		}
+      ]
+    }
+  ]
+}

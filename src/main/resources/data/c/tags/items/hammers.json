@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "crushing_hammers:wooden_hammer",
+    "crushing_hammers:stone_hammer",
+    "crushing_hammers:golden_hammer",
+    "crushing_hammers:iron_hammer",
+    "crushing_hammers:diamond_hammer",
+    "crushing_hammers:netherite_hammer"
+  ]
+}

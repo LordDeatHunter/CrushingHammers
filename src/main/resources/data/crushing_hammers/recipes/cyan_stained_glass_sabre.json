@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    "## ",
+    "!# "
+  ],
+  "key": {
+    "#": {
+      "item": "crushing_hammers:cyan_stained_glass_shard"
+    },
+    "!": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "crushing_hammers:cyan_stained_glass_sabre",
+    "count": 1
+  }
+}

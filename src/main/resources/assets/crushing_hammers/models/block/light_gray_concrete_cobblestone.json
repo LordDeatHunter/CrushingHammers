@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "crushing_hammers:block/light_gray_concrete_cobblestone"
+    }
+}

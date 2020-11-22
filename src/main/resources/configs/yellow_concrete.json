@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:yellow_concrete",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "crushing_hammers:yellow_concrete_cobblestone",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    }
+  ]
+}

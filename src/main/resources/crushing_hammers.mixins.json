@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "wraith.crushing_hammers.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "AbstractBlockMixin",
+    "DynamicEntryMixin",
+    "GroupEntryMixin",
+    "ItemEntryMixin",
+    "LootTableAccessor",
+    "RecipeManagerMixin",
+    "SequenceEntryMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

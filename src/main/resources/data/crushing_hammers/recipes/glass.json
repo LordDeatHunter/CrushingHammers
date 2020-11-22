@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "crushing_hammers:glass_shard"
+  },
+  "result": "minecraft:glass",
+  "experience": 1.0,
+  "cookingtime": 200
+}

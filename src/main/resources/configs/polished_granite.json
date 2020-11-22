@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:polished_granite",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:granite",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    }
+  ]
+}

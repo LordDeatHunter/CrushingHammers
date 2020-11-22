@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:orange_stained_glass_pane",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+        {
+          "item": "crushing_hammers:orange_stained_glass_shard",
+          "fortune": false,
+          "min": 0,
+          "max": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:chiseled_stone_bricks",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:cracked_stone_bricks",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+		}
+      ]
+    }
+  ]
+}

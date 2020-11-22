@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:nether_gold_ore",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:gold_nugget",
+          "fortune": false,
+          "min": 5,
+          "max": 7
+        }
+      ]
+    }
+  ]
+}

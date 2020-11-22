@@ -1,0 +1,25 @@
+{
+  "source": "minecraft:stonecutter",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:cobblestone",
+          "fortune": false,
+          "min": 3,
+          "max": 3
+        },
+        {
+          "item": "minecraft:iron_ingot",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    }
+  ]
+}

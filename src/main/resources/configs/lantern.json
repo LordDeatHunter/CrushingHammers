@@ -1,0 +1,25 @@
+{
+  "source": "minecraft:lantern",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:iron_nugget",
+          "fortune": false,
+          "min": 8,
+          "max": 8
+        },
+	    {
+          "item": "minecraft:torch",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    }
+  ]
+}

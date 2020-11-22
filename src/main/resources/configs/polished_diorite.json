@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:polished_diorite",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:diorite",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    }
+  ]
+}

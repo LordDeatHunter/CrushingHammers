@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "crushing_hammers:item/light_blue_stained_glass_pile"
+    }
+}

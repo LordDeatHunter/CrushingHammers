@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:furnace",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:cobblestone",
+          "fortune": false,
+          "min": 8,
+          "max": 8
+		}
+      ]
+    }
+  ]
+}

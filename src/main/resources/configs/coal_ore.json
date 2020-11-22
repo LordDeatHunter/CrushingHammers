@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:coal_ore",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:coal",
+          "fortune": false,
+          "min": 1,
+          "max": 2
+		}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "crushing_hammers:block/diorite_brick_slab"
+    },
+    "type=double": {
+      "model": "crushing_hammers:block/diorite_bricks"
+    },
+    "type=top": {
+      "model": "crushing_hammers:block/diorite_brick_slab_top"
+    }
+  }
+}

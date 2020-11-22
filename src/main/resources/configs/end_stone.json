@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:end_stone",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "crushing_hammers:end_gravel",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+		}
+      ]
+    }
+  ]
+}

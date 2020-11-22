@@ -1,0 +1,25 @@
+{
+  "source": "minecraft:hopper",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+	  "chance": 100,
+	  "repeat": false,
+	  "drops": [
+        {
+          "item": "minecraft:iron_ingot",
+          "fortune": false,
+          "min": 5,
+          "max": 5
+        },
+        {
+          "item": "minecraft:chest",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+        }
+	  ]
+    }
+  ]
+}

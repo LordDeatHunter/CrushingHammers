@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "crushing_hammers:block/granite_brick_slab"
+    },
+    "type=double": {
+      "model": "crushing_hammers:block/granite_bricks"
+    },
+    "type=top": {
+      "model": "crushing_hammers:block/granite_brick_slab_top"
+    }
+  }
+}

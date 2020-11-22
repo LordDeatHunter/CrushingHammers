@@ -1,0 +1,19 @@
+{
+  "source": "minecraft:redstone_ore",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:redstone",
+          "fortune": false,
+          "min": 4,
+          "max": 6
+        }
+      ]
+    }
+  ]
+}

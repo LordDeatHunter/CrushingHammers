@@ -1,0 +1,25 @@
+{
+  "source": "minecraft:scaffolding",
+  "drop_min": 1,
+  "drop_max": 1,
+  "result": [
+    {
+      "chance": 100,
+      "repeat": false,
+      "drops": [
+	    {
+          "item": "minecraft:bamboo",
+          "fortune": false,
+          "min": 6,
+          "max": 6
+        },
+        {
+          "item": "minecraft:string",
+          "fortune": false,
+          "min": 1,
+          "max": 1
+        }
+      ]
+    }
+  ]
+}

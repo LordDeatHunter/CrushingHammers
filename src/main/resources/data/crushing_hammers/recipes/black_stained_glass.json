@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "crushing_hammers:black_stained_glass_shard"
+  },
+  "result": "minecraft:black_stained_glass",
+  "experience": 1.0,
+  "cookingtime": 200
+}
